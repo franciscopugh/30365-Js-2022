@@ -1,0 +1,38 @@
+
+    [
+    {
+        "id": 1,
+        "nombre": "Televisor",
+        "marca": "LG",
+        "precio": 80000,
+        "stock": 20 
+    },
+    {
+        "id": 2,
+        "nombre": "Celular",
+        "marca": "Samsung",
+        "precio": 40000,
+        "stock": 25 
+    },
+    {
+        "id": 3,
+        "nombre": "Teclado",
+        "marca": "Logitech",
+        "precio": 10000,
+        "stock": 30 
+    },
+    {
+        "id": 4,
+        "nombre": "Notebook",
+        "marca": "Asus",
+        "precio": 180000,
+        "stock": 10 
+    },
+    {
+        "id": 5,
+        "nombre": "Mouse",
+        "marca": "Asus",
+        "precio": 5000,
+        "stock": 22
+    }
+    ]
